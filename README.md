@@ -2,8 +2,7 @@
 - 👀 I’m interested in developing software & web applications collaborativly.
 - 🌱 I’m currently learning @NIBM Kandy
 - 💞️ I’m looking to collaborate on any kind of team project
-- 📫 How to reach me
--   E-mail - isuranga880@gmail.com
+- 📫 How to reach me - isuranga880@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Really love to code, 😁
 
