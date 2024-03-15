@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AnushkaIsuranga
-- 👀 I’m interested in developing software & web applications collaborativly.
-- 🌱 I’m currently learning @NIBM Kandy
-- 💞️ I’m looking to collaborate on any kind of team project
-- 📫 How to reach me - isuranga880@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Really love to code, 😁
+- Hi, I’m @AnushkaIsuranga
+- I’m interested in developing software & web applications.
+- I’m currently a CS Undergraduat @NIBM Kandy
+- I’m looking to work collaboratively
+- How to reach me - isuranga880@gmail.com
 
 <!---
 AnushkaIsuranga/AnushkaIsuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
