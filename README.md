@@ -1,7 +1,7 @@
 - Hi, I’m @AnushkaIsuranga
 - I’m interested in developing software & web applications.
 - I’m currently a CS Undergraduat @NIBM Kandy
-- I’m looking to work collaboratively
+- I’m looking forward to work collaboratively
 - How to reach me - isuranga880@gmail.com
 
 <!---
