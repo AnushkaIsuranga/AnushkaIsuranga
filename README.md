@@ -38,10 +38,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaIsuranga&show_icons=true&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaIsuranga&hide_border=true" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaIsuranga&layout=compact&hide_border=true&langs_count=10" alt="Most Used Languages">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AnushkaIsuranga&hide_border=true" alt="Contributions">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaIsuranga&layout=compact&hide_border=true&langs_count=10" alt="Most Used Languages"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaIsuranga&show_icons=true&hide_border=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaIsuranga&hide_border=true" alt="Streak Stats"><br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnushkaIsuranga&hide_border=true" alt="Contributions"><br>
 </p>
 
 
