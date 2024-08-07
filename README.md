@@ -32,10 +32,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaIsuranga&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Most Used Languages">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AnushkaIsuranga&hide_border=true&theme=tokyonight" alt="Contributions"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaIsuranga&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaIsuranga&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Most Used Languages"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaIsuranga&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaIsuranga&hide_border=true&theme=tokyonight" alt="Streak Stats"><br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnushkaIsuranga&hide_border=true&theme=tokyonight" alt="Contributions"><br>
 </p>
 
 ## Trophies
