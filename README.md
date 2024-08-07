@@ -22,12 +22,12 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,html,css,javascript,php,bootstrap,vite,react,tailwind,mysql,python,kotlin,java,nodejs,mongodb,maven,spring)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,html,css,javascript,php,bootstrap,vite,react,tailwind,mysql,python,kotlin,java,nodejs,mongodb,maven,spring)
 
 
 ## Applications in Common:
 
-[![My Tools](https://skillicons.dev/icons?i=windows,vscode,visualstudio,figma,github,pr,postman,androidstudio,stackoverflow)](https://skillicons.dev)
+![My Tools](https://skillicons.dev/icons?i=windows,vscode,visualstudio,figma,github,pr,postman,androidstudio,stackoverflow)
 
 ## GitHub Stats
 
