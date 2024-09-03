@@ -8,7 +8,7 @@
 <h4>
   <ul>
     <li>👨‍💻 I’m interested in developing software & web applications.</li>
-    <li>🎓 I’m currently a CS Undergraduate <a href="https://www.nibm.lk/">@NIBM</a> Kandy</li>
+    <li>🎓 I’m currently a CS Undergraduate <a href="https://www.nibm.lk/" target="_blank">@NIBM</a> Kandy</li>
     <li>🤝 I’m looking forward to work collaboratively</li>
     <li>📫 How to reach me: <a href="mailto:isuranga880@gmail.com" target="_blank">isuranga880@gmail.com</a> / <a href="https://wa.me/+94771732201" target="_blank">+94 77 173 2201</a></li>
   </ul>
