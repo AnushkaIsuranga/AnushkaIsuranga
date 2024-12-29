@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I’m <a href="https://anushkaisuranga.github.io/">@AnushkaIsuranga</a></h1>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AnushkaIsuranga&label=Profile%20Views&color=8&icon=1&pretty=true" />
-  </a>
-</p>
 
 <h4>
   <ul>
