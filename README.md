@@ -3,7 +3,7 @@
 <h4>
   <ul>
     <li>👨‍💻 I’m interested in developing software & web applications.</li>
-    <li>🎓 I’m currently a CS Undergraduate <a href="https://www.nibm.lk/" target="_blank">@NIBM</a> Kandy</li>
+    <li>🎓 I’m currently a CS Undergraduate <a href="https://www.nibm.lk/" target="_blank">@NIBM</a> (Coventry University)</li>
     <li>🤝 I’m looking forward to work collaboratively</li>
     <li>📫 How to reach me: <a href="mailto:isuranga880@gmail.com" target="_blank">isuranga880@gmail.com</a> / <a href="https://wa.me/+94771732201" target="_blank">+94 77 173 2201</a></li>
   </ul>
@@ -17,12 +17,12 @@
 
 ## Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,html,css,javascript,php,bootstrap,vite,react,tailwind,mysql,python,kotlin,java,nodejs,mongodb,maven,spring)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,html,css,javascript,php,bootstrap,vite,react,tailwind,nextjs,ts,mysql,sqlite,python,kotlin,java,nodejs,mongodb,maven,spring,arduino)
 
 
 ## Applications in Common:
 
-![My Tools](https://skillicons.dev/icons?i=windows,vscode,visualstudio,figma,github,pr,postman,androidstudio,stackoverflow)
+![My Tools](https://skillicons.dev/icons?i=windows,vscode,visualstudio,figma,github,git,pr,postman,ubuntu,androidstudio,stackoverflow,firebase)
 
 ## GitHub Stats
 
